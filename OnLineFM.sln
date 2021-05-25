@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnLineFM", "OnLineFM.csproj", "{4E6D4E1B-D9C7-4EF5-BF5E-05E61087F968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6D4E1B-D9C7-4EF5-BF5E-05E61087F968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6D4E1B-D9C7-4EF5-BF5E-05E61087F968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6D4E1B-D9C7-4EF5-BF5E-05E61087F968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6D4E1B-D9C7-4EF5-BF5E-05E61087F968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {651592E0-70AC-4800-83BF-98771DCE2762}
+	EndGlobalSection
+EndGlobal

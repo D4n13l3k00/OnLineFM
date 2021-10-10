@@ -1,6 +1,6 @@
 # OnLineFM
 
-### Простое онлайн радио на C# для Wndows на базе Windows Media Player
+### Простое онлайн радио на C# для Windows на базе Windows Media Player
 
 ![Screenshot](app.png)
 
